@@ -1,0 +1,8 @@
+This Dataset contains the following files :
+
+pres_precinct_data_2022.csv : Contains the election results of the 2022 Philippine presidential elections at a per-precinct level.
+
+2022NLEPOP.xslx : Contains precinct descriptions and polling centers centers for the 2022 Philippine presidential elections.
+
+vp_precinct_data_2016.csv : Contains the election results of the 2016 Philippine vice-presidential elections at a per-precinct level. 
+
